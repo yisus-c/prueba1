@@ -1,0 +1,33 @@
+body{
+    font-family: 'Serif';
+    position: relative;
+    min-height: 100vh;
+}
+
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+nav{
+    font-size: x-large;
+}
+a{
+    font-size: x-large;
+}
+
+.slider-img{
+    width: 100%;
+    height: 300px;
+}
+
+.btn-custom1{
+    background-color: brown;
+
+}
+.btn-custom1:hover{
+    background-color: chartreuse;
+    
+}
